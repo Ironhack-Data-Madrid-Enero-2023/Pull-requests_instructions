@@ -1,4 +1,4 @@
-# ¿Qué es una *pull request*?
+# ¿Qué es una *pull request?
 ![portada](https://github.com/Fominayasg/Instrucciones_pull-request/blob/main/images/look-pull-requests.jpeg)
 
 Una pull request es una petición de validación de cambios que se hace a un repositorio.
